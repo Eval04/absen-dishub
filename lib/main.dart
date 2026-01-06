@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'pages/splashscreen.dart';
+import 'pages/SplashScreen.dart';
 
 void main() {
   runApp(const SimagangApp());
